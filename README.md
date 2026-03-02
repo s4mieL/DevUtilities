@@ -41,6 +41,12 @@ This section contains educational examples showing how token‑grabbing malware 
 
 * **main.py** — A Simple Grabber Startup framework, might be outdated, since it only supports v10,v11 app-bound encryption, and today's encryption method by most chromium browsers uses v20!
 
+### 3. Injector
+
+This section contains educational tool showing how token-grabbing malware works under the hood, it is inspired from the
+Black Grabber (A Open Source Project)specially thanks to the author and his community providing us an insight on how it works under the hood
+even though their projects ends in mid August, 2023 but they left us an impact on how this complex software works!
+
 > ⚠️ Always run these scripts in a controlled or virtual environment.
 ---
 
