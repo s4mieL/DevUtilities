@@ -12,7 +12,6 @@ Utilities/
  │    ├─ anti_vm.py        # Anti-VM detection logic
  │    ├─ demo_payload.py   # Safe demo payload
  │    └─ README.md         # Notes and usage instructions
- ├─ misc/                  # Miscellaneous developer utilities
  └─ README.md              # This file
 ```
 
