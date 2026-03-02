@@ -10,7 +10,7 @@ Welcome to **Utilities**, a collection of general developer-focused scripts and 
 Utilities/
  ├─ anti_vm/               # Educational anti-VM / sandbox detection utilities
  │    ├─ anti_vm.py        # Anti-VM detection logic
- │    ├─ demo_payload.py   # Safe demo payload
+ │    ├─ 2nd_stage.py      # Safe demo payload
  │    └─ README.md         # Notes and usage instructions
  └─ README.md              # This file
 ```
