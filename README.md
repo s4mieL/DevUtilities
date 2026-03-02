@@ -24,7 +24,7 @@ Utilities/
 This section contains educational tools that demonstrate system awareness and sandbox detection techniques. **Warning:** Some scripts can be destructive (e.g., process termination, self-deletion) if run directly. They are provided for learning purposes only.
 
 * **anti_vm.py** — Detects virtual machines and sandboxed environments.
-* **demo_payload.py** — A safe demonstration that shows payload hooks without causing harm.
+* **2nd_stage.py** — A safe demonstration that shows payload hooks without causing harm.
 
 > ⚠️ Always run these scripts in a controlled or virtual environment.
 
