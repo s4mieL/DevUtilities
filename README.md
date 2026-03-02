@@ -12,6 +12,8 @@ Utilities/
  │    ├─ anti_vm.py        # Anti-VM detection logic
  │    ├─ 2nd_stage.py      # Safe demo payload
  │    └─ README.md         # Notes and usage instructions
+ ├─ grabber-base/          # A Grabber Startup
+ │    ├─ anti_vm.py        # a simple grabber framework (only works for v10,v11)
  └─ README.md              # This file
 ```
 
@@ -26,8 +28,18 @@ This section contains educational tools that demonstrate system awareness and sa
 * **anti_vm.py** — Detects virtual machines and sandboxed environments.
 * **2nd_stage.py** — A safe demonstration that shows payload hooks without causing harm.
 
-> ⚠️ Always run these scripts in a controlled or virtual environment.
 
+
+---
+
+### 2. Grabber Frameowork
+
+This section contains educational examples showing how token‑grabbing malware targets Discord credentials. 
+**Warning:** Running these scripts on a real environment may expose sensitive account data. They are provided solely for cybersecurity research and defensive learning.
+
+* **main.py** — A Simple Grabber Startup framework, might be outdated, since it only supports v10,v11 app-bound encryption, and today's encryption method by most chromium browsers uses v20!
+
+> ⚠️ Always run these scripts in a controlled or virtual environment.
 ---
 
 ## Usage Instructions
