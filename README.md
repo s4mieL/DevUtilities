@@ -13,9 +13,9 @@ Utilities/
  │    ├─ 2nd_stage.py      # Safe demo payload
  │    └─ README.md         # Notes and usage instructions
  ├─ grabber-base/          # A Grabber Startup
- │    ├─ anti_vm.py        # a simple grabber framework (only works for v10,v11)
+ │    └─ anti_vm.py        # a simple grabber framework (only works for v10,v11)
  ├─injector/
- │    ├─ obfuscated-injector.js # a injector
+ │    └─ obfuscated-injector.js # a injector
  └─ README.md              # This file
 ```
 
