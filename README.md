@@ -28,10 +28,6 @@ This section contains educational tools that demonstrate system awareness and sa
 
 > ⚠️ Always run these scripts in a controlled or virtual environment.
 
-### 2. Miscellaneous Utilities
-
-Other small utilities and helper scripts that are useful for development, automation, or experimentation.
-
 ---
 
 ## Usage Instructions
